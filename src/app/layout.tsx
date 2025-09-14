@@ -1,5 +1,9 @@
 import "./globals.css";
 
+export const metadata = {
+  title: "NeoEngine Help Center",
+};
+
 export default function RootLayout({
   children,
 }: {
